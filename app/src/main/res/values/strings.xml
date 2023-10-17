@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A.S_Notes</string>
+    <string name="ankan_name">Welcom to Ankans app</string>
+    <string name="Login_to_continue">Log In To Continue</string>
+    <string name="Login_hint">Enter Your Email</string>
+    <string name="password_hint">Enter Your Password</string>
+    <string name="Title">Logout</string>
+</resources>
